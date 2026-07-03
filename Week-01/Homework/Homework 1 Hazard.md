@@ -1,3 +1,5 @@
+<img width="644" height="811" alt="นพรัตน์2" src="https://github.com/user-attachments/assets/44965f5d-5038-46a9-b518-e97e599b5106" />
+<img width="858" height="864" alt="นพรัตน์1" src="https://github.com/user-attachments/assets/869fb90c-f6e5-4f0e-aa3d-dffa83ad1ab4" />
 # **Prompt สำหรับ Iterative Learning Mode**
 
 ## Homework 1 — OHS Hazard Analysis (Iterative Learning)
